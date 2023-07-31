@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KESIREDDI NIRBHAI SAI
-- 👀 I’m interested in C++, DSA, SQL and FRONTEND.
+- 👀 I’m interested in C++, DSA, SQL and FRONTEND(HTML/CSS).
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I love building optimized codes.
 
